@@ -11,7 +11,7 @@ you can use google home mini control our smart device - 使用谷歌智能音响
 ### 音响使用步骤
 
 #### 一 google home mini 入网
-[配网教程案例-需要翻墙](https://www.znj.com/news/1631.html)
+[配网教程案例-wifi需要翻墙](https://www.znj.com/news/1631.html)
 
 1. google home mini 上电开机，四个灯在闪烁-进入配网状态
 2. 在手机上下载 Google Home App，打开app并且登入google账号，app会自动搜索到mini。 (此步骤比较难连接，多试几次)
