@@ -5,4 +5,4 @@
 you can use google home mini control our smart device - 使用谷歌智能音响控制智能家电设备
 
 ### 官方文档
-[官方文档]( )
+
