@@ -38,5 +38,6 @@ you can use google home mini control our smart device - 使用谷歌智能音响
 2. Smart home intent: Simple messaging objects that describe how to perform a smart home Action such as turn on a light or cast audio to a speaker. See smart home intents
 3. Fulfillment : A service that handles a smart home intent and carries out the corresponding Action. See fulfillment and authentication. (提供API服务)
 
+# 代码待增加。。。。
 
 
