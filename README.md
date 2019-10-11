@@ -31,3 +31,12 @@ you can use google home mini control our smart device - 使用谷歌智能音响
 2. 配置需要授权的Auth2.0的登录H5页面、token获取接口、fulfillment接口地址
 3. 提供服务接口即可。
 4. 测试完毕即可发布，等待谷歌工作人员审核，审核成功之后，Google Home App即可找到自己创建的技能
+
+#### 二 开发实现
+[开发文档-需要翻墙](https://developers.google.com/assistant/smarthome/concepts)
+1. Authentication: Links your users' Google accounts with user accounts in your authentication system. See fulfillment and authentication.
+2. Smart home intent: Simple messaging objects that describe how to perform a smart home Action such as turn on a light or cast audio to a speaker. See smart home intents
+3. Fulfillment : A service that handles a smart home intent and carries out the corresponding Action. See fulfillment and authentication. (提供API服务)
+
+
+
